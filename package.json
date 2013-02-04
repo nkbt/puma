@@ -22,7 +22,8 @@
     "express": "*",
     "ejs": "*",
     "async": "*",
-    "underscore": "*"
+    "underscore": "*",
+    "underscore.string": "*"
   },
   "keywords": [
     "framework",
