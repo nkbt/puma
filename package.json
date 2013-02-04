@@ -16,11 +16,6 @@
   "dependencies": {
     "express": "*",
     "ejs": "*",
-    "async": "*"
-  },
-  "devDependencies": {
-    "express": "*",
-    "ejs": "*",
     "async": "*",
     "underscore": "*",
     "underscore.string": "*"
