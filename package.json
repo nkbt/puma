@@ -1,48 +1,44 @@
 {
-  "name": "puma",
-  "private": true,
-  "description": "Fast and simple framework for modular application",
-  "version": "0.0.1",
-  "author": {
-    "name": "Nik Butenko",
-    "email": "nikita.butenko@gmail.com"
-  },
-  "contributors": [
-    {
-      "name": "Nik Butenko",
-      "email": "nikita.butenko@gmail.com"
-    }
-  ],
-  "dependencies": {
-    "express": "*",
-    "ejs": "*",
-    "async": "*",
-    "underscore": "*",
-    "underscore.string": "*"
-  },
-  "keywords": [
-    "framework",
-    "zend",
-    "zf",
-    "web",
-    "router",
-    "app",
-    "express",
-    "api"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/quall/puma.git"
-  },
-  "bugs": {
-    "url": "http://github.com/quall/puma/issues",
-    "email": "nikita.butenko@gmail.com"
-  },
-  "main": "index",
-  "engines": {
-    "node": "*"
-  },
-  "readmeFilename": "Readme.md",
-  "_id": "puma@0.0.1",
-  "_from": "puma@0.0.1"
+	"name": "puma",
+	"private": true,
+	"description": "Fast and simple framework for modular application",
+	"version": "0.0.4",
+	"author": {
+		"name": "Nik Butenko",
+		"email": "nikita.butenko@gmail.com"
+	},
+	"contributors": [
+		{
+			"name": "Nik Butenko",
+			"email": "nikita.butenko@gmail.com"
+		}
+	],
+	"dependencies": {
+		"async": "*",
+		"underscore": "*",
+		"underscore.string": "*"
+	},
+	"keywords": [
+		"framework",
+		"zend",
+		"zf",
+		"web",
+		"router",
+		"app",
+		"express",
+		"api"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/nkbt/puma.git"
+	},
+	"bugs": {
+		"url": "http://github.com/nkbt/puma/issues",
+		"email": "nikita.butenko@gmail.com"
+	},
+	"main": "index",
+	"engines": {
+		"node": "*"
+	},
+	"readmeFilename": "Readme.md"
 }
