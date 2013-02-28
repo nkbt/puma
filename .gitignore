@@ -3,7 +3,6 @@
 #############
 
 node_modules
-docs
 
 lib-cov
 *.seed
