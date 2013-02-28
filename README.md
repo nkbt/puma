@@ -3,4 +3,4 @@ puma
 
 Fast and simple framework for modular application
 
-[Documentation](./docs)
+[Documentation](http://nkbt.github.com/puma/docs/index.html)
