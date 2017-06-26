@@ -14,7 +14,7 @@
 		}
 	],
 	"dependencies": {
-		"async": "*",
+		"async": ">=2.5.0",
 		"underscore": "*",
 		"underscore.string": "*"
 	},
